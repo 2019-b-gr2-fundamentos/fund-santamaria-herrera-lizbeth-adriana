@@ -1,11 +1,11 @@
-/*
+"""
 Nombre: Lizbeth Santamaría
 Fecha actualizacion: 23-10-2019
-Descripcion: ejemplos de variables primitivas en JS
-*/
+Descripcion: ejemplos de variables primitivas en JS"""
 
-// primitivas (tipos de variables)
-/*              
+
+## primitivas (tipos de variables)
+"""             
 NUMEROS
 int                 -> Numero ENTERO        Ej: 4 o 2 o 0
 float               ->Numero decimal        Ej: 5.26 o -15.5
@@ -24,4 +24,4 @@ Diccionarios -> se compone de dos partes una llave  y un valor
 x = {"mantisa":5.81, "exponente":1.4}
 type(x)
 
-*/ 
+"""

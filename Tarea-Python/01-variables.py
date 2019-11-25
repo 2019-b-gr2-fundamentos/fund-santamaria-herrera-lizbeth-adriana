@@ -24,4 +24,4 @@ Diccionarios -> se compone de dos partes una llave  y un valor
 x = {"mantisa":5.81, "exponente":1.4}
 type(x)
 
-*"""
+"""
