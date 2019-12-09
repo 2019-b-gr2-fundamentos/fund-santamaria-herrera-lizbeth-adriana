@@ -109,50 +109,46 @@ else
 
 def switch_demo(argument):
 CALCULO = "multiplicar" # sumar restar multiplicar dividir
-switcher = calculo
-    case "sumar":   //1
-        //Codigo
-        break;
-    case "restar":  //2 
-        //Codigo  
-        break;
-    case "multiplicar": //3
-        //Codigo 
-        break;
-    case  "dividir" : //4
-        //Codigo 
-        break;
-    default:
 
-}
+if calculo == sumar:
+    #codigo
+else :
+    if calculo == restar
+    #codigo
+    else:
+        if calculo == multiplicar
+        #codigo
+        else:
+            if calculo == dividir
+            #codigo
+            else:
+                print ()
 
 # 6 Guagua
 # 18 Guambra
 # 65 Longo 
 # 66 Ruku
 
-EDAD_STRING = prompt("Ingresas edad")
-EDAD = Number(edadstring)
+EDAD_STRING = input("Ingresas edad")
+EDAD = Number(EDAD_STRING)
 
-if (edad >= 0 && edad <=6 ){
-    console.log("Guagua")
-} else {
-    if (edad > 6 && edad <=18){
-        console.log("Guambra")
-    } else {
-        if(edad > 18 && edad <=65){
-            console.log("Longo");
-        }else{
-            if(edad > 65){
-                console.log("Ruku");
-            }else{
-                console.log("Edad ingresada invalida");
-            }
-            
-        }
-    }
-}
+if edad >= 0 & edad <=6 
+    print("Guagua")
+ else: 
+    if edad > 6 & edad <=18
+        print("Guambra")
+     else: 
+        if edad > 18 & edad <=65
+            console.log("Longo")
+        else:
+            if edad > 65
+                print("Ruku")
+            else:
+                print("Edad ingresada invalida")
 
+
+if Edad == 6
+print("Guagua")
 switch(Edad) {
     case 6 :   
         console.log("Guagua")
